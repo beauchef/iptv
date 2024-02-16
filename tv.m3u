@@ -25,8 +25,6 @@ https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/61016
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive1.us",ABC News Live
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
-#EXTINF:-1 tvg-id="WNETDT1.us",PBS New York NY (WNET)
-https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
 #EXTINF:-1 tvg-id="BBCAmericaEast.us",BBC America East
 https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="MSNBC.us",MSNBC
@@ -46,10 +44,6 @@ https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index
 #EXTINF:-1 tvg-id="BFMParisIledeFrance.fr" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM Paris Île-de-France
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="CNews.fr",CNews
-https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/CNEWS.m3u8
-#EXTINF:-1 tvg-id="Franceinfo.fr",FranceInfo
-https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/FranceInfo.m3u8
 #EXTINF:-1 tvg-id="LEquipe.fr",L'Equipe
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
 #EXTINF:-1 tvg-id="",L'Equipe Live 1
