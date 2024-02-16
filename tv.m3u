@@ -1,0 +1,60 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CFTUDT.ca",Canal Savoir (360p)
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 tvg-id="CBMTDT.ca",CBC Montréal (CBMT-DT)
+https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
+#EXTINF:-1 tvg-id="",CBC News Explore
+https://cbcrclive-tor-fast-internal.akamaized.net/hls/live/2095857/prod-gem-cbc-news-explore/hls/master.m3u8
+#EXTINF:-1 tvg-id="",CityNews
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+#EXTINF:-1 tvg-id="CTVNewsChannel.ca",CTV
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
+#EXTINF:-1 tvg-id="CFHDDT.ca",ICI Montreal
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+#EXTINF:-1 tvg-id="CBFTDT.ca",Ici Radio-Canada Télé
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
+#EXTINF:-1 tvg-id="IciRDI.ca",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 tvg-id="LCN.ca",LCN
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
+#EXTINF:-1 tvg-id="Noovo.ca",Noovo
+https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
+#EXTINF:-1 tvg-id="CIVMDT.ca",Télé-Québec
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+#EXTINF:-1 tvg-id="CFTMDT.ca",TVA
+https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive1.us",ABC News Live
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+#EXTINF:-1 tvg-id="WNETDT1.us",PBS New York NY (WNET)
+https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
+#EXTINF:-1 tvg-id="BBCAmericaEast.us",BBC America East
+https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="MSNBC.us",MSNBC
+http://41.205.93.154/MSNBC/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us",Fox News Channel
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#EXTINF:-1 tvg-id="Gulli.fr",Gulli
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
+#EXTINF:-1 tvg-id="M6.fr",M6
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+#EXTINF:-1 tvg-id="M6Music.fr",M6 Music
+http://178.170.47.109/M6MUSIC/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr",Euronews English
+https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsFrench.fr",Euronews French
+https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8
+#EXTINF:-1 tvg-id="BFMParisIledeFrance.fr" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM Paris Île-de-France
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-id="CNews.fr",CNews
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/CNEWS.m3u8
+#EXTINF:-1 tvg-id="Franceinfo.fr",FranceInfo
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/FranceInfo.m3u8
+#EXTINF:-1 tvg-id="LEquipe.fr",L'Equipe
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
+#EXTINF:-1 tvg-id="",L'Equipe Live 1
+https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
+#EXTINF:-1 tvg-id="",L'Equipe Live 2
+https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8
+#EXTINF:-1 tvg-id="France24English.fr",France 24 English
+http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
