@@ -15,16 +15,44 @@ https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-name="Global News Montreal" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News Montreal
 https://i.mjh.nz/PlutoTV/62cbfbd6ad95670007f567af-alt.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive1.us",ABC News Live
-https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/640px-BBC_News_2022_%28Alt%29.svg.png" tvg-id="BBCNews.uk" group-title="UK",BBC News
+http://92.114.85.81:8000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-name="Sky News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/1024px-Sky_News_logo.svg.png" tvg-id="SkyNews.uk" group-title="UK",Sky News
+https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index_mob.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png" tvg-id="CNN.us" group-title="USA",CNN
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-name="CNBC Ⓨ" tvg-logo="https://i.imgur.com/BTasyOy.png" tvg-id="CNBC.us" group-title="USA",CNBC Ⓨ
+https://www.youtube.com/c/CNBC/live
+#EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/VnCcH73.png" tvg-id="BloombergTelevision.us" group-title="USA",Bloomberg
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://i.imgur.com/7sJLzKi.png" tvg-id="ABCNews.us" group-title="USA",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://i.imgur.com/nki2HDQ.png" tvg-id="CBSNews.us" group-title="USA",CBS News
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+#EXTINF:-1 tvg-name="NBC News" tvg-logo="https://i.imgur.com/v48mMRT.png" tvg-id="NBCNewsNow.us" group-title="USA",NBC News
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+#EXTINF:-1 tvg-name="Reuters TV" tvg-logo="https://i.imgur.com/AbvCnoH.png" tvg-id="ReutersTV.us" group-title="USA",Reuters TV
+https://reuters-reutersnow-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCAmericaEast.us",BBC America East
 https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us",Fox News Channel
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#EXTINF:-1 tvg-name="Arte Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/12px-Arte_Logo_2017.svg.png" tvg-id="ARTEFrench.fr" group-title="France",Arte Ⓖ
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr",Gulli
 https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
-#EXTINF:-1 tvg-id="M6.fr",M6
-https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+#EXTINF:-1 tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/886px-France_2_2018.svg.png" tvg-id="France2.fr" group-title="France",France 2
+http://livetv.ktv.zone/104/play.m3u8
+#EXTINF:-1 tvg-name="France 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/899px-France_3_2018.svg.png" tvg-id="France3.fr" group-title="France",France 3
+http://livetv.ktv.zone/105/play.m3u8
+#EXTINF:-1 tvg-name="France 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/998px-France_4_2018.svg.png" tvg-id="France4.fr" group-title="France",France 4
+http://livetv.ktv.zone/116/play.m3u8
+#EXTINF:-1 tvg-name="France 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/900px-France_5_2018.svg.png" tvg-id="France5.fr" group-title="France",France 5
+http://livetv.ktv.zone/107/play.m3u8
+#EXTINF:-1 tvg-name="M6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/49px-Logo_M6_%282020%2C_fond_clair%29.svg.png" tvg-id="M6.fr" group-title="France",M6
+https://s13.tntendirect.com/m6/live/playlist.m3u8
+#EXTINF:-1 tvg-name="W9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/W9_2018.svg/56px-W9_2018.svg.png" tvg-id="W9.fr" group-title="France",W9
+https://s13.tntendirect.com/w9/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr",Euronews English
 https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsFrench.fr",Euronews French
@@ -34,3 +62,14 @@ https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="France24English.fr",France 24 English
 http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="France 24 Ⓨ" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-id="France24French.fr" group-title="France",France 24 Ⓨ
+https://www.youtube.com/c/FRANCE24/live
+#EXTINF:-1 tvg-name="CNews Ⓓ" tvg-logo="https://i.imgur.com/UMRGAHx.png" tvg-id="CNews.fr" group-title="France",CNews Ⓓ
+https://www.dailymotion.com/video/x3b68jn
+#EXTINF:-1 tvg-name="franceinfo: Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/640px-Franceinfo.svg.png" tvg-id="Franceinfo.fr" group-title="France",franceinfo: Ⓨ
+https://www.youtube.com/c/franceinfo/live
+#EXTINF:-1 tvg-name="TF1 Séries Films" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/640px-TF1_S%C3%A9ries_Films_logo_2020.svg.png" tvg-id="TF1SeriesFilms.fr" group-title="France",TF1 Séries Films
+http://livetv.ktv.zone/22/play.m3u8
+#EXTINF:-1 tvg-name="TV5 Monde Info" tvg-logo="https://i.imgur.com/NcysrWH.png" tvg-id="TV5MondeInfo.fr" group-title="France",TV5 Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+
